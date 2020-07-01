@@ -1,2 +1,2 @@
 # Csharp
-C# Labs of the 5 semester
+C# Labs of the 5'th semester
